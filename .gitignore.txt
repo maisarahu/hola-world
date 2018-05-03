@@ -1,0 +1,3 @@
+#No se cosiderará los archivos queempiezen con "password" y "claves"
+password.*
+claves.*
